@@ -14,6 +14,4 @@ Good practices of REST:
 Its best to work with jsons
 Its better to keep the path short and simple without using verbs and plurals
 Its best to give informative error messages
-
-I made all functions idempotentical except the delete function in the Address service
-since we don't care about its response because we use it through the User service
+ 
